@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Генеровані графіки (не зберігаємо в репозиторії)
+chart.png
+*.png
+!weight-tracker-icon.png
